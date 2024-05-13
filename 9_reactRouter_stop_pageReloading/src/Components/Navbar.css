@@ -1,0 +1,17 @@
+nav {
+    display: flex;
+    gap: 30px;
+    font-weight: 600;
+    background-color: black;
+}
+
+li {
+    list-style-type: none;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+

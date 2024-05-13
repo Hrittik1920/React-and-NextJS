@@ -1,0 +1,13 @@
+nav, ul {
+    display: flex;
+    background-color: peachpuff;
+    padding: 8px;
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    gap: 34px;
+}
